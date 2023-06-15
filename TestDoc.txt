@@ -1,0 +1,33 @@
+1)
+The dimensions of Jay's room in centimeters are:
+
+Length = 8m x 100 cm/m = 800 cm
+
+Width = 4m x 100 cm/m = 400 cm
+
+Next, we need to calculate the area of the room in square centimeters:
+
+Area = Length x Width
+
+Area = 800 cm x 400 cm
+
+Area = 320,000 cm^2
+
+Since each tile is 25 cm x 20 cm, the area of each tile is:
+
+Area of each tile = 25 cm x 20 cm
+
+Area of each tile = 500 cm^2
+
+To find out how many tiles Jay needs to cover the floor of his room, we can divide the total area of the room by the area of each tile:
+
+Number of tiles = Area of room / Area of each tile
+
+Number of tiles = 320,000 cm^2 / 500 cm^2
+
+Number of tiles = 640
+
+Therefore, Jay will need 640 tiles to cover the floor of his room.
+
+2)
+
